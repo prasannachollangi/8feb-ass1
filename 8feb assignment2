@@ -1,0 +1,3 @@
+number=float(input('enter value in kilometer:'))
+b=number*10**5
+print('value of a in centimeters:',b)
